@@ -1,46 +1,46 @@
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 100;
-  src: url("./SF/SF_pro_AR(thin).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(thin).ttf");
 }
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 200;
-  src: url("./SF/SF_pro_AR(ultralight).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(ultralight).ttf");
 }
 
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 300;
-  src: url("./SF/SF_pro_AR(light).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(light).ttf");
 }
 
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 400;
-  src: url("./SF/SF_pro_AR(regular).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(regular).ttf");
 }
 
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 500;
-  src: url("./SF/SF_pro_AR(medium).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(medium).ttf");
 }
 
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 600;
-  src: url("./SF/SF_pro_AR(semibold).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(semibold).ttf");
 }
 
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 700;
-  src: url("./SF/SF_pro_AR(bold).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(bold).ttf");
 }
 
 @font-face {
   font-family: "SF_PRO_AR";
   font-weight: 800;
-  src: url("./SF/SF_pro_AR(black).ttf");
+  src: url("https://raw.githubusercontent.com/ABDMYD/SF_PRO_AR_Font/main//SF/SF_pro_AR(black).ttf");
 }
